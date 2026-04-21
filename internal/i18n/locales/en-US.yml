@@ -60,9 +60,9 @@ gist.edit.cancel: Cancel
 gist.edit.save: Save
 gist.delete.confirm: Are you sure you want to delete this gist ?
 
-gist.list.joined: Joined
-gist.list.all: All gists
-gist.list.search-results: Search results
+gist.list.joined: منضم
+gist.list.all: كل الأفكار
+gist.list.search-results: نتائج البحث
 gist.list.sort: Sort
 gist.list.sort-by-created: created
 gist.list.sort-by-updated: updated
@@ -71,7 +71,7 @@ gist.list.order-by-desc: Recently
 gist.list.select-tab: Select a tab
 gist.list.liked: Liked
 gist.list.likes: likes
-gist.list.forked: Forked
+gist.list.forked: مشتقة
 gist.list.forked-from: Forked from
 gist.list.forks: forks
 gist.list.files: files
@@ -271,7 +271,7 @@ header.menu.login: Login
 header.menu.light: Light
 header.menu.dark: Dark
 header.menu.system: System
-footer.powered-by: Powered by %s
+footer.powered-by: تم التشغيل بواسطة %s
 
 pagination.older: Older
 pagination.newer: Newer
