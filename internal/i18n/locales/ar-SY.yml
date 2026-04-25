@@ -1,60 +1,60 @@
-gist.public: Public
-gist.unlisted: Unlisted
-gist.private: Private
+gist.public: عام
+gist.unlisted: مخبأ
+gist.private: خاص
 
 gist.header.like: اعجبني
 gist.header.unlike: لم يعجبني
-gist.header.fork: Fork
-gist.header.edit: Edit
-gist.header.delete: Delete
-gist.header.forked-from: Forked from
-gist.header.last-active: Last active
-gist.header.select-tab: Select a tab
+gist.header.fork: اشتقاق
+gist.header.edit: تعديل
+gist.header.delete: حذف
+gist.header.forked-from: مشتق من
+gist.header.last-active: آخر نشاط
+gist.header.select-tab: اختر علامة التبويب
 gist.header.code: كود
-gist.header.revisions: Revisions
-gist.header.revision: Revision
-gist.header.clone-http: Clone via %s
-gist.header.clone-http-help: Clone with Git using HTTP basic authentication.
-gist.header.clone-ssh: Clone via SSH
-gist.header.clone-ssh-help: Clone with Git using an SSH key.
-gist.header.embed: Embed
-gist.header.embed-help: Embed this gist to your website.
-gist.header.download-zip: Download ZIP
+gist.header.revisions: التعديلات
+gist.header.revision: تعديل
+gist.header.clone-http: نسخ عن طريق %s
+gist.header.clone-http-help: نسخ باستخدام المصادقة HTTP الأساسية.
+gist.header.clone-ssh: نسخ باستخدام مفتاح SSH
+gist.header.clone-ssh-help: نسخ باستخدام مفتاح SSH.
+gist.header.embed: تضمين
+gist.header.embed-help: تضمين هذا المقطع في موقعك على الويب.
+gist.header.download-zip: تنزيل ZIP
 
-gist.raw: Raw
-gist.file-truncated: This file has been truncated.
-gist.file-raw: This file can't be rendered.
-gist.file-binary-edit: This file is binary.
-gist.watch-full-file: View the full file.
-gist.file-not-valid: This file is not a valid CSV file.
-gist.no-content: No files found
-gist.preview-non-available: Preview not available
+gist.raw: خام
+gist.file-truncated: تم تقطيع هذا الملف.
+gist.file-raw: لا يمكن عرض هذا الملف.
+gist.file-binary-edit: هذا الملف ثنائي.
+gist.watch-full-file: عرض الملف الكامل.
+gist.file-not-valid: هذا الملف ليس ملف CSV صالح.
+gist.no-content: لا توجد ملفات.
+gist.preview-non-available: المعاينة غير متاحة
 
 gist.new.new_gist: مقطع جديد
-gist.new.title: Title
-gist.new.description: Description
-gist.new.url: URL
-gist.new.filename-with-extension: Filename with extension
-gist.new.indent-mode: Indent mode
-gist.new.indent-mode-space: Space
-gist.new.indent-mode-tab: Tab
-gist.new.indent-size: Indent size
-gist.new.wrap-mode: Wrap mode
-gist.new.wrap-mode-no: No wrap
-gist.new.wrap-mode-soft: Soft wrap
-gist.new.add-file: Add file
-gist.new.create-public-button: Create public gist
-gist.new.create-unlisted-button: Create unlisted gist
-gist.new.create-private-button: Create private gist
-gist.new.preview: Preview
-gist.new.create-a-new-gist: Create a new gist
-gist.new.topics: Topics (separate with spaces)
-gist.new.drop-files: Drop files here or click to upload
-gist.new.any-file-type: Upload any file type
+gist.new.title: العنوان
+gist.new.description: الوصف
+gist.new.url: الرابط
+gist.new.filename-with-extension: اسم الملف مع الامتداد
+gist.new.indent-mode: نمط الإزاحة
+gist.new.indent-mode-space: مسافات
+gist.new.indent-mode-tab: علامة تبويب
+gist.new.indent-size: حجم الإزاحة
+gist.new.wrap-mode: نمط التفاف السطر
+gist.new.wrap-mode-no: بدون التفاف
+gist.new.wrap-mode-soft: التفاف ناعم
+gist.new.add-file: إضافة ملف
+gist.new.create-public-button: إنشاء مقطع عام
+gist.new.create-unlisted-button: إنشاء مقطع مخبأ
+gist.new.create-private-button: إنشاء مقطع خاص
+gist.new.preview: معاينة
+gist.new.create-a-new-gist: إنشاء مقطع جديد
+gist.new.topics: المواضيع (افصل بينها بمسافات)
+gist.new.drop-files: أفلت الملفات هنا أو انقر للتحميل
+gist.new.any-file-type: ارفع أي نوع ملف
 
-gist.edit.editing: Editing
-gist.edit.edit-gist: Edit %s
-gist.edit.change-visibility: Make
+gist.edit.editing: تحرير
+gist.edit.edit-gist: تعديل %s
+gist.edit.change-visibility: جعل
 gist.edit.delete: حذف
 gist.edit.cancel: الغاء
 gist.edit.save: حفظ
@@ -66,134 +66,134 @@ gist.list.search-results: نتائج البحث
 gist.list.sort: ترتيب
 gist.list.sort-by-created: تم الانشاء
 gist.list.sort-by-updated: تم التحديث
-gist.list.order-by-asc: Least recently
-gist.list.order-by-desc: Recently
-gist.list.select-tab: Select a tab
-gist.list.liked: Liked
-gist.list.likes: likes
+gist.list.order-by-asc: الأقدم أولاً
+gist.list.order-by-desc: الأحدث أولاً
+gist.list.select-tab: اختر علامة التبويب
+gist.list.liked: معجب بها
+gist.list.likes: إعجابات
 gist.list.forked: مشتقة
-gist.list.forked-from: Forked from
-gist.list.forks: forks
-gist.list.files: files
-gist.list.last-active: Last active
+gist.list.forked-from: مشتقة من
+gist.list.forks: اشتقاقات
+gist.list.files: ملفات
+gist.list.last-active: آخر نشاط
 gist.list.no-gists: لا مقاطع
-gist.list.all-liked-by: All gists liked by %s
-gist.list.all-forked-by: All gists forked by %s
-gist.list.all-from: All gists from %s
-gist.list.topic-results-topic: All gists matching topic %s
-gist.list.topic-results: All gists matching topic
+gist.list.all-liked-by: كل المقاطع التي أعجب بها %s
+gist.list.all-forked-by: كل المقاطع المشتقة بواسطة %s
+gist.list.all-from: كل المقاطع من %s
+gist.list.topic-results-topic: كل المقاطع المطابقة للموضوع %s
+gist.list.topic-results: كل المقاطع المطابقة للموضوع
 
 
-gist.search.found: gists found
-gist.search.no-results: No gists found
-gist.search.help.user: gists created by user
-gist.search.help.title: gists with given title
-gist.search.help.description: gists with given description
-gist.search.help.filename: gists having files with given name
-gist.search.help.extension: gists having files with given extension
-gist.search.help.language: gists having files with given language
-gist.search.help.topic: gists with given topic
-gist.search.help.all: search all fields
-gist.search.placeholder.title: Title
-gist.search.placeholder.visibility: Visibility
-gist.search.placeholder.public: Public
-gist.search.placeholder.unlisted: Unlisted
-gist.search.placeholder.private: Private
-gist.search.placeholder.language: Language
-gist.search.placeholder.all: All
-gist.search.placeholder.topics: Topics
+gist.search.found: تم العثور على مقاطع
+gist.search.no-results: لم يتم العثور على مقاطع
+gist.search.help.user: المقاطع التي أنشأها المستخدم
+gist.search.help.title: المقاطع ذات العنوان المحدد
+gist.search.help.description: المقاطع ذات الوصف المحدد
+gist.search.help.filename: المقاطع التي تحتوي ملفات بالاسم المحدد
+gist.search.help.extension: المقاطع التي تحتوي ملفات بالامتداد المحدد
+gist.search.help.language: المقاطع التي تحتوي ملفات باللغة المحددة
+gist.search.help.topic: المقاطع ذات الموضوع المحدد
+gist.search.help.all: البحث في جميع الحقول
+gist.search.placeholder.title: العنوان
+gist.search.placeholder.visibility: مستوى الظهور
+gist.search.placeholder.public: عام
+gist.search.placeholder.unlisted: مخبأ
+gist.search.placeholder.private: خاص
+gist.search.placeholder.language: اللغة
+gist.search.placeholder.all: الكل
+gist.search.placeholder.topics: المواضيع
 gist.search.placeholder.search: البحث عن
 
-gist.forks: Forks
-gist.forks.view: View fork
-gist.forks.no: No public forks
-gist.forks.for: Forks for %s
+gist.forks: اشتقاقات
+gist.forks.view: عرض الاشتقاق
+gist.forks.no: لا توجد اشتقاقات عامة
+gist.forks.for: اشتقاقات %s
 
-gist.likes: Likes
-gist.likes.no: No likes yet
-gist.likes.for: Likes for %s
+gist.likes: الإعجابات
+gist.likes.no: لا توجد إعجابات بعد
+gist.likes.for: إعجابات %s
 
-gist.revisions: Revisions
-gist.revision.revised: revised this gist
-gist.revision.go-to-revision: Go to revision
-gist.revision.file-created: file created
-gist.revision.file-deleted: file deleted
-gist.revision.file-renamed: renamed to
-gist.revision.diff-truncated: Diff is too large to be shown
-gist.revision.file-renamed-no-changes: File renamed without changes
-gist.revision.empty-file: Empty file
-gist.revision.binary-file-changes: Binary file changes are not shown
-gist.revision.no-changes: No changes
-gist.revision.no-revisions: No revisions to show
-gist.revision-of: Revision of %s
+gist.revisions: التعديلات
+gist.revision.revised: عدّل هذا المقطع
+gist.revision.go-to-revision: الانتقال إلى التعديل
+gist.revision.file-created: تم إنشاء الملف
+gist.revision.file-deleted: تم حذف الملف
+gist.revision.file-renamed: تم تغيير الاسم إلى
+gist.revision.diff-truncated: الفرق كبير جدًا ولا يمكن عرضه
+gist.revision.file-renamed-no-changes: تم تغيير اسم الملف بدون تغييرات
+gist.revision.empty-file: ملف فارغ
+gist.revision.binary-file-changes: لا يتم عرض تغييرات الملفات الثنائية
+gist.revision.no-changes: لا توجد تغييرات
+gist.revision.no-revisions: لا توجد تعديلات للعرض
+gist.revision-of: تعديل %s
 
-settings: Settings
-settings.email: Email
-settings.email-help: Used for commits and Gravatar
-settings.email-set: Set email
-settings.link-accounts: Link accounts
-settings.link-github-account: Link GitHub account
-settings.link-gitlab-account: Link GitLab account
-settings.link-gitea-account: Link Gitea account
-settings.unlink-github-account: Unlink GitHub account
-settings.unlink-gitlab-account: Unlink GitLab account
-settings.unlink-gitea-account: Unlink Gitea account
-settings.delete-account: Delete account
-settings.delete-account-confirm: Are you sure you want to delete your account ?
-settings.add-ssh-key: Add SSH key
-settings.add-ssh-key-help: Used only to pull/push gists using Git via SSH
-settings.add-ssh-key-title: Title
-settings.add-ssh-key-content: Key
-settings.delete-ssh-key: Delete
-settings.delete-ssh-key-confirm: Confirm deletion of SSH key
-settings.ssh-key-added-at: Added
-settings.ssh-key-never-used: Never used
-settings.ssh-key-last-used: Last used
-settings.ssh-key-exists: SSH key already exists
-settings.change-username: Change username
-settings.create-password: Create password
-settings.create-password-help: Create your password to login to Opengist via HTTP
-settings.change-password: Change password
-settings.change-password-help: Change your password to login to Opengist via HTTP
+settings: الإعدادات
+settings.email: البريد الإلكتروني
+settings.email-help: يُستخدم في عمليات commit وGravatar
+settings.email-set: تعيين البريد الإلكتروني
+settings.link-accounts: ربط الحسابات
+settings.link-github-account: ربط حساب GitHub
+settings.link-gitlab-account: ربط حساب GitLab
+settings.link-gitea-account: ربط حساب Gitea
+settings.unlink-github-account: إلغاء ربط حساب GitHub
+settings.unlink-gitlab-account: إلغاء ربط حساب GitLab
+settings.unlink-gitea-account: إلغاء ربط حساب Gitea
+settings.delete-account: حذف الحساب
+settings.delete-account-confirm: هل أنت متأكد أنك تريد حذف حسابك؟
+settings.add-ssh-key: إضافة مفتاح SSH
+settings.add-ssh-key-help: يُستخدم فقط لسحب/دفع المقاطع عبر Git باستخدام SSH
+settings.add-ssh-key-title: العنوان
+settings.add-ssh-key-content: المفتاح
+settings.delete-ssh-key: حذف
+settings.delete-ssh-key-confirm: تأكيد حذف مفتاح SSH
+settings.ssh-key-added-at: أُضيف
+settings.ssh-key-never-used: لم يُستخدم أبدًا
+settings.ssh-key-last-used: آخر استخدام
+settings.ssh-key-exists: مفتاح SSH موجود بالفعل
+settings.change-username: تغيير اسم المستخدم
+settings.create-password: إنشاء كلمة مرور
+settings.create-password-help: أنشئ كلمة مرورك لتسجيل الدخول إلى Opengist عبر HTTP
+settings.change-password: تغيير كلمة المرور
+settings.change-password-help: غيّر كلمة مرورك لتسجيل الدخول إلى Opengist عبر HTTP
 settings.password-label-title: كلمة المرور
-settings.header.account: Account
-settings.header.mfa: MFA
+settings.header.account: الحساب
+settings.header.mfa: المصادقة متعددة العوامل
 settings.header.ssh: SSH
-settings.header.tokens: Access tokens
-settings.header.style: Style
-settings.style.gist-code: مقطع كود
-settings.style.no-soft-wrap: No Soft Wrap
-settings.style.soft-wrap: Soft Wrap
-settings.style.removed-lines-color: Removed lines color
-settings.style.added-lines-color: Added lines color
-settings.style.git-lines-color: Git lines color
-settings.style.save-style: Save style
-settings.style.theme: Theme
-settings.style.theme-light: Light
-settings.style.theme-dark: Dark
-settings.style.theme-auto: Auto
-settings.create-token: Create access token
-settings.create-token-help: Access tokens can be used to access the API
-settings.token-name: Name
-settings.token-permissions: Permissions
-settings.token-gist-permission: Gists
-settings.token-permission-none: No access
-settings.token-permission-read: Read
-settings.token-permission-read-write: Read & Write
-settings.delete-token: Delete
-settings.delete-token-confirm: Confirm deletion of access token
-settings.token-created-at: Created
-settings.token-never-used: Never used
-settings.token-last-used: Last used
-settings.token-expiration: Expiration
-settings.token-expiration-help: Leave empty for no expiration
-settings.token-expires-at: Expires
-settings.token-no-expiration: No expiration
-settings.token-expired: expired
-settings.token-created: Token created, make sure to copy it now, you won't be able to see it again!
-settings.token-deleted: Access token deleted
+settings.header.tokens: رموز الوصول
+settings.header.style: المظهر
+settings.style.gist-code: كود المقطع
+settings.style.no-soft-wrap: بدون التفاف ناعم
+settings.style.soft-wrap: التفاف ناعم
+settings.style.removed-lines-color: لون الأسطر المحذوفة
+settings.style.added-lines-color: لون الأسطر المضافة
+settings.style.git-lines-color: لون أسطر Git
+settings.style.save-style: حفظ المظهر
+settings.style.theme: السمة
+settings.style.theme-light: فاتح
+settings.style.theme-dark: داكن
+settings.style.theme-auto: تلقائي
+settings.create-token: إنشاء رمز وصول
+settings.create-token-help: يمكن استخدام رموز الوصول للوصول إلى API
+settings.token-name: الاسم
+settings.token-permissions: الأذونات
+settings.token-gist-permission: المقاطع
+settings.token-permission-none: بدون وصول
+settings.token-permission-read: قراءة
+settings.token-permission-read-write: قراءة وكتابة
+settings.delete-token: حذف
+settings.delete-token-confirm: تأكيد حذف رمز الوصول
+settings.token-created-at: أُنشئ
+settings.token-never-used: لم يُستخدم أبدًا
+settings.token-last-used: آخر استخدام
+settings.token-expiration: انتهاء الصلاحية
+settings.token-expiration-help: اتركه فارغًا لعدم تحديد انتهاء صلاحية
+settings.token-expires-at: ينتهي في
+settings.token-no-expiration: بدون انتهاء صلاحية
+settings.token-expired: منتهي الصلاحية
+settings.token-created: تم إنشاء الرمز، تأكد من نسخه الآن، لن تتمكن من رؤيته مرة أخرى!
+settings.token-deleted: تم حذف رمز الوصول
 
-auth.signup-disabled: Administrator has disabled signing up
+auth.signup-disabled: قام المسؤول بتعطيل إنشاء الحسابات
 auth.login: تسجيل الدخول
 auth.signup: انشاء
 auth.new-account: حساب جديد
@@ -201,179 +201,179 @@ auth.username: اسم المستخدم
 auth.password: كلمة المرور
 auth.register-instead: انشاء حساب
 auth.login-instead: سجل الدخول
-auth.oauth: Continue with %s account
-auth.oauth.no-provider: OAuth provider not found
-auth.oauth.complete-registration: Complete your registration
-auth.oauth.complete-registration-button: Create account
-auth.oauth.signing-in-with: Signing in with %s
+auth.oauth: المتابعة باستخدام حساب %s
+auth.oauth.no-provider: لم يتم العثور على موفر OAuth
+auth.oauth.complete-registration: أكمل تسجيلك
+auth.oauth.complete-registration-button: إنشاء حساب
+auth.oauth.signing-in-with: تسجيل الدخول باستخدام %s
 auth.oauth.cancel: الغاء
-auth.oauth.existing-account: Existing account?
-auth.oauth.already-have-account: If you already have an Opengist account, login first and link your %s account from your settings.
-auth.mfa: Multi-factor authentication
+auth.oauth.existing-account: لديك حساب موجود؟
+auth.oauth.already-have-account: إذا كان لديك حساب Opengist بالفعل، فسجّل الدخول أولًا ثم اربط حساب %s من الإعدادات.
+auth.mfa: المصادقة متعددة العوامل
 auth.mfa.passkey: مفتاح مرور
 auth.mfa.passkeys: مفاتيح مرور
 auth.mfa.use-passkey: استخدم مفتاح مرور
 auth.mfa.bind-passkey: اربط مفتاح مرور
 auth.mfa.login-with-passkey: سجل الدخول بمفتاح مرور
-auth.mfa.waiting-for-passkey-input: Waiting for input from browser interaction...
+auth.mfa.waiting-for-passkey-input: بانتظار الإدخال من تفاعل المتصفح...
 auth.mfa.use-passkey-to-finish: استخدم مفتاح مرور لانهاء المصادقة
-auth.mfa.passkeys-help: Add a passkey to log to your account and to use as an MFA method.
-auth.mfa.passkey-name: Name
-auth.mfa.delete-passkey: Delete
-auth.mfa.passkey-added-at: Added
-auth.mfa.passkey-never-used: Never used
-auth.mfa.passkey-last-used: Last used
-auth.mfa.delete-passkey-confirm: Confirm deletion of passkey
-auth.totp: Time based one-time password (TOTP)
-auth.totp.help: TOTP is a two-factor authentication method that uses a shared secret to generate a one-time password.
-auth.totp.use: Use TOTP
-auth.totp.regenerate-recovery-codes: Regenerate recovery codes
-auth.totp.already-enabled: TOTP is already enabled
-auth.totp.invalid-secret: Invalid TOTP secret
-auth.totp.invalid-code: Invalid TOTP code
-auth.totp.code-used: The recovery code %s was used, it is now invalid. You may want to disable MFA for now or regenerate your codes.
-auth.totp.disabled: TOTP successfully disabled
-auth.totp.disable: Disable TOTP
-auth.totp.enter-code: Enter the code from the Authenticator app
-auth.totp.enter-recovery-key: or a recovery key if you lost your device
+auth.mfa.passkeys-help: أضف مفتاح مرور لتسجيل الدخول إلى حسابك واستخدامه كطريقة مصادقة متعددة العوامل.
+auth.mfa.passkey-name: الاسم
+auth.mfa.delete-passkey: حذف
+auth.mfa.passkey-added-at: أُضيف
+auth.mfa.passkey-never-used: لم يُستخدم أبدًا
+auth.mfa.passkey-last-used: آخر استخدام
+auth.mfa.delete-passkey-confirm: تأكيد حذف مفتاح المرور
+auth.totp: كلمة مرور لمرة واحدة قائمة على الوقت (TOTP)
+auth.totp.help: TOTP هي طريقة مصادقة ثنائية تستخدم سرًا مشتركًا لإنشاء كلمة مرور لمرة واحدة.
+auth.totp.use: استخدام TOTP
+auth.totp.regenerate-recovery-codes: إعادة إنشاء رموز الاسترداد
+auth.totp.already-enabled: TOTP مفعّل بالفعل
+auth.totp.invalid-secret: سر TOTP غير صالح
+auth.totp.invalid-code: رمز TOTP غير صالح
+auth.totp.code-used: تم استخدام رمز الاسترداد %s وهو الآن غير صالح. قد ترغب في تعطيل المصادقة متعددة العوامل حاليًا أو إعادة إنشاء رموزك.
+auth.totp.disabled: تم تعطيل TOTP بنجاح
+auth.totp.disable: تعطيل TOTP
+auth.totp.enter-code: أدخل الرمز من تطبيق المصادقة
+auth.totp.enter-recovery-key: أو مفتاح استرداد إذا فقدت جهازك
 auth.totp.code: كود
-auth.totp.submit: Submit
-auth.totp.proceed: Proceed
-auth.totp.save-recovery-codes: Save your recovery codes in a safe place. You can use these codes to recover access to your account if you lose access to your authenticator app.
-auth.totp.scan-qr-code: Scan the QR code below with your authenticator app to enable two-factor authentication or enter the following string, then confirm with the generated code.
+auth.totp.submit: إرسال
+auth.totp.proceed: متابعة
+auth.totp.save-recovery-codes: احفظ رموز الاسترداد في مكان آمن. يمكنك استخدام هذه الرموز لاستعادة الوصول إلى حسابك إذا فقدت الوصول إلى تطبيق المصادقة.
+auth.totp.scan-qr-code: امسح رمز QR أدناه باستخدام تطبيق المصادقة لتفعيل المصادقة الثنائية، أو أدخل السلسلة التالية ثم أكّد بالرمز الذي تم إنشاؤه.
 
 
-error: Error
-error.page-not-found: Page not found
-error.bad-request: Bad request
-error.signup-disabled: Signing up is disabled
-error.signup-disabled-form: Signing up via registration form is disabled
-error.login-disabled-form: Logging in via login form is disabled
-error.complete-oauth-login: "Cannot complete user auth: %s"
-error.oauth-unsupported: Unsupported OAuth2 provider
-error.cannot-bind-data: Cannot bind data
-error.invalid-number: Invalid number
-error.invalid-character-unescaped: Invalid character unescaped
-error.not-in-mfa-session: User is not in a MFA session
-error.no-file-uploaded: No file uploaded
-error.cannot-open-file: Cannot open uploaded file
+error: خطأ
+error.page-not-found: الصفحة غير موجودة
+error.bad-request: طلب غير صالح
+error.signup-disabled: إنشاء الحسابات معطّل
+error.signup-disabled-form: إنشاء الحساب عبر نموذج التسجيل معطّل
+error.login-disabled-form: تسجيل الدخول عبر نموذج تسجيل الدخول معطّل
+error.complete-oauth-login: "تعذر إكمال مصادقة المستخدم: %s"
+error.oauth-unsupported: موفر OAuth2 غير مدعوم
+error.cannot-bind-data: تعذر ربط البيانات
+error.invalid-number: رقم غير صالح
+error.invalid-character-unescaped: محرف غير صالح غير مهلّب
+error.not-in-mfa-session: المستخدم ليس ضمن جلسة مصادقة متعددة العوامل
+error.no-file-uploaded: لم يتم رفع أي ملف
+error.cannot-open-file: تعذر فتح الملف المرفوع
 
 header.menu.all: الكل
 header.menu.new: جديد
-header.menu.search: البحث عن
+header.menu.search: البحث
 header.menu.my-gists: مقاطعي
-header.menu.liked: تم الاعجاب
-header.menu.admin: Admin
-header.menu.settings: الاعدادات
+header.menu.liked: المفضلة
+header.menu.admin: الإدارة
+header.menu.settings: الإعدادات
 header.menu.logout: تسجيل الخروج
-header.menu.register: انشاء حساب
+header.menu.register: إنشاء حساب
 header.menu.login: تسجيل الدخول
-header.menu.light: Light
-header.menu.dark: Dark
-header.menu.system: System
-footer.powered-by: . %s تم البناء على 
+header.menu.light: فاتح
+header.menu.dark: داكن
+header.menu.system: النظام
+footer.powered-by: مدعوم بواسطة %s
 
 pagination.older: أقدم
 pagination.newer: أحدث
 pagination.previous: سابق
 pagination.next: لاحق
 
-admin.admin_panel: Admin panel
-admin.general: General
-admin.users: Users
+admin.admin_panel: لوحة الإدارة
+admin.general: عام
+admin.users: المستخدمون
 admin.gists: مقاطع
-admin.configuration: Configuration
-admin.invitations: Invitations
-admin.invitations.create: Create invitation
-admin.versions: Versions
-admin.ssh_keys: SSH keys
-admin.stats: Stats
-admin.actions: Actions
-admin.actions.sync-fs: Synchronize gists from filesystem
-admin.actions.sync-db: Synchronize gists from database
-admin.actions.git-gc: Garbage collect all git repositories
-admin.actions.sync-previews: Synchronize all gists previews
-admin.actions.reset-hooks: Reset Git server hooks for all repositories
-admin.actions.index-gists: Rebuild search index
-admin.actions.sync-gist-languages: Synchronize all gists languages
+admin.configuration: الإعدادات
+admin.invitations: الدعوات
+admin.invitations.create: إنشاء دعوة
+admin.versions: الإصدارات
+admin.ssh_keys: مفاتيح SSH
+admin.stats: الإحصائيات
+admin.actions: الإجراءات
+admin.actions.sync-fs: مزامنة المقاطع من نظام الملفات
+admin.actions.sync-db: مزامنة المقاطع من قاعدة البيانات
+admin.actions.git-gc: تنفيذ جمع القمامة لجميع مستودعات Git
+admin.actions.sync-previews: مزامنة معاينات جميع المقاطع
+admin.actions.reset-hooks: إعادة تعيين خطافات خادم Git لجميع المستودعات
+admin.actions.index-gists: إعادة بناء فهرس البحث
+admin.actions.sync-gist-languages: مزامنة لغات جميع المقاطع
 admin.id: ID
-admin.user: User
-admin.delete: Delete
-admin.created_at: Created
+admin.user: المستخدم
+admin.delete: حذف
+admin.created_at: تاريخ الإنشاء
 
-admin.config-link: This configuration can be %s by a YAML config file and/or environment variables.
-admin.config-link-overriden: overridden
-admin.disable-signup: Disable signup
-admin.disable-signup_help: Forbid the creation of new accounts.
-admin.require-login: Require login
-admin.require-login_help: Enforce users to be logged in to see gists.
-admin.allow-gists-without-login: Allow individual gists without login
-admin.allow-gists-without-login_help: Allow individual gists to be viewed and downloaded without login, while requiring login for discovering gists.
-admin.disable-login: Disable login form
-admin.disable-login_help: Forbid logging in via the login form to force using OAuth providers instead.
-admin.disable-gravatar: Disable Gravatar
-admin.disable-gravatar_help: Disable the usage of Gravatar as an avatar provider.
+admin.config-link: يمكن %s هذا الإعداد عبر ملف إعدادات YAML و/أو متغيرات البيئة.
+admin.config-link-overriden: تجاوزه
+admin.disable-signup: تعطيل إنشاء الحساب
+admin.disable-signup_help: منع إنشاء حسابات جديدة.
+admin.require-login: طلب تسجيل الدخول
+admin.require-login_help: فرض تسجيل الدخول على المستخدمين لعرض المقاطع.
+admin.allow-gists-without-login: السماح بالمقاطع الفردية دون تسجيل دخول
+admin.allow-gists-without-login_help: السماح بعرض وتنزيل المقاطع الفردية دون تسجيل دخول، مع طلب تسجيل الدخول لاستكشاف المقاطع.
+admin.disable-login: تعطيل نموذج تسجيل الدخول
+admin.disable-login_help: منع تسجيل الدخول عبر النموذج لإجبار استخدام مزوّدي OAuth بدلًا من ذلك.
+admin.disable-gravatar: تعطيل Gravatar
+admin.disable-gravatar_help: تعطيل استخدام Gravatar كمزوّد للصور الرمزية.
 
-admin.users.delete_confirm: Do you want to delete this user ?
+admin.users.delete_confirm: هل تريد حذف هذا المستخدم؟
 
-admin.gists.title: Title
-admin.gists.private: Private ?
-admin.gists.nb-files: Nb. files
-admin.gists.nb-likes: Nb. likes
-admin.gists.delete_confirm: Do you want to delete this gist ?
+admin.gists.title: العنوان
+admin.gists.private: خاص؟
+admin.gists.nb-files: عدد الملفات
+admin.gists.nb-likes: عدد الإعجابات
+admin.gists.delete_confirm: هل تريد حذف هذا المقطع؟
 
-admin.invitations.help: Invitations can be used to create an account even if signing up is disabled.
-admin.invitations.max_uses: Max uses
-admin.invitations.expires_at: Expires at
+admin.invitations.help: يمكن استخدام الدعوات لإنشاء حساب حتى لو كان إنشاء الحسابات معطّلًا.
+admin.invitations.max_uses: أقصى عدد استخدامات
+admin.invitations.expires_at: تنتهي في
 admin.invitations.code: كود
-admin.invitations.copy_link: Copy link
-admin.invitations.uses: Uses
-admin.invitations.expired: Expired
-admin.invitations.delete_confirm: Do you want to delete this invitation ?
+admin.invitations.copy_link: نسخ الرابط
+admin.invitations.uses: الاستخدامات
+admin.invitations.expired: منتهية
+admin.invitations.delete_confirm: هل تريد حذف هذه الدعوة؟
 
-flash.admin.user-deleted: User has been deleted
-flash.admin.gist-deleted: Gist has been deleted
-flash.admin.invitation-created: Invitation has been created
-flash.admin.invitation-deleted: Invitation has been deleted
-flash.admin.sync-fs: Syncing repositories from filesystem...
-flash.admin.sync-db: Syncing repositories from database...
-flash.admin.git-gc: Garbage collecting repositories...
-flash.admin.sync-previews: Syncing Gist previews...
-flash.admin.reset-hooks: Resetting Git server hooks for all repositories...
-flash.admin.index-gists: Rebuilding search index...
-flash.admin.sync-gist-languages: Syncing Gist languages...
+flash.admin.user-deleted: تم حذف المستخدم
+flash.admin.gist-deleted: تم حذف المقطع
+flash.admin.invitation-created: تم إنشاء الدعوة
+flash.admin.invitation-deleted: تم حذف الدعوة
+flash.admin.sync-fs: تتم مزامنة المستودعات من نظام الملفات...
+flash.admin.sync-db: تتم مزامنة المستودعات من قاعدة البيانات...
+flash.admin.git-gc: جارٍ تنفيذ جمع القمامة للمستودعات...
+flash.admin.sync-previews: تتم مزامنة معاينات المقاطع...
+flash.admin.reset-hooks: جارٍ إعادة تعيين خطافات خادم Git لجميع المستودعات...
+flash.admin.index-gists: جارٍ إعادة بناء فهرس البحث...
+flash.admin.sync-gist-languages: تتم مزامنة لغات المقاطع...
 
-flash.auth.username-exists: Username already exists
-flash.auth.invalid-credentials: Invalid credentials
-flash.auth.account-linked-oauth: Account linked to %s
-flash.auth.account-unlinked-oauth: Account unlinked from %s
-flash.auth.user-sshkeys-not-retrievable: Could not get user keys
-flash.auth.user-sshkeys-not-created: Could not create ssh key
-flash.auth.must-be-logged-in: You must be logged in to access gists
-flash.auth.passkey-registred: Passkey %s registered
-flash.auth.passkey-deleted: Passkey deleted
-flash.auth.oauth-session-expired: OAuth2 session expired, please try again
-flash.auth.oauth-already-linked: This %s account is already linked to another user
+flash.auth.username-exists: اسم المستخدم موجود بالفعل
+flash.auth.invalid-credentials: بيانات الاعتماد غير صالحة
+flash.auth.account-linked-oauth: تم ربط الحساب بـ %s
+flash.auth.account-unlinked-oauth: تم إلغاء ربط الحساب من %s
+flash.auth.user-sshkeys-not-retrievable: تعذر جلب مفاتيح المستخدم
+flash.auth.user-sshkeys-not-created: تعذر إنشاء مفتاح SSH
+flash.auth.must-be-logged-in: يجب تسجيل الدخول للوصول إلى المقاطع
+flash.auth.passkey-registred: تم تسجيل مفتاح المرور %s
+flash.auth.passkey-deleted: تم حذف مفتاح المرور
+flash.auth.oauth-session-expired: انتهت جلسة OAuth2، يرجى المحاولة مرة أخرى
+flash.auth.oauth-already-linked: حساب %s هذا مرتبط بالفعل بمستخدم آخر
 
-flash.gist.visibility-changed: Gist visibility has been changed
-flash.gist.deleted: Gist has been deleted
-flash.gist.fork-own-gist: Unable to fork own gists
-flash.gist.forked: Gist has been forked
+flash.gist.visibility-changed: تم تغيير مستوى ظهور المقطع
+flash.gist.deleted: تم حذف المقطع
+flash.gist.fork-own-gist: لا يمكن اشتقاق مقاطعك الخاصة
+flash.gist.forked: تم اشتقاق المقطع
 
-flash.user.email-updated: Email updated
-flash.user.invalid-ssh-key: Invalid SSH key
-flash.user.ssh-key-added: SSH key added
-flash.user.ssh-key-deleted: SSH key deleted
-flash.user.password-updated: Password updated
-flash.user.username-updated: Username updated
+flash.user.email-updated: تم تحديث البريد الإلكتروني
+flash.user.invalid-ssh-key: مفتاح SSH غير صالح
+flash.user.ssh-key-added: تمت إضافة مفتاح SSH
+flash.user.ssh-key-deleted: تم حذف مفتاح SSH
+flash.user.password-updated: تم تحديث كلمة المرور
+flash.user.username-updated: تم تحديث اسم المستخدم
 
-validation.is-too-long: Field %s is too long
-validation.should-not-be-empty: Field %s should not be empty
-validation.should-not-include-sub-directory: Field %s should not include a sub directory
-validation.should-only-contain-alphanumeric-characters: Field %s should only contain alphanumeric characters
-validation.should-only-contain-alphanumeric-characters-and-dashes: Field %s should only contain alphanumeric characters and dashes
-validation.not-enough: Not enough %s
-validation.invalid: Invalid %s
-validation.invalid-gist-topics: Invalid gist topics, they must start with a letter or number, consist of 50 characters or less, and can include hyphens
+validation.is-too-long: الحقل %s طويل جدًا
+validation.should-not-be-empty: يجب ألا يكون الحقل %s فارغًا
+validation.should-not-include-sub-directory: يجب ألا يتضمن الحقل %s مجلدًا فرعيًا
+validation.should-only-contain-alphanumeric-characters: يجب أن يحتوي الحقل %s على أحرف وأرقام فقط
+validation.should-only-contain-alphanumeric-characters-and-dashes: يجب أن يحتوي الحقل %s على أحرف وأرقام وشرطات فقط
+validation.not-enough: %s غير كافٍ
+validation.invalid: %s غير صالح
+validation.invalid-gist-topics: مواضيع المقطع غير صالحة، يجب أن تبدأ بحرف أو رقم، وألا تتجاوز 50 حرفًا، ويمكن أن تتضمن شرطات
 
-html.title.admin-panel: Admin panel
+html.title.admin-panel: لوحة الإدارة
