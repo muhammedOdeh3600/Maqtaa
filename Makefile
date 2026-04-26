@@ -5,6 +5,7 @@ BINARY_NAME := opengist
 GIT_TAG := $(shell git describe --tags)
 VERSION_PKG := github.com/thomiceli/opengist/internal/config.OpengistVersion
 TEST_DB_TYPE ?= sqlite
+GO_MOD_DOWNLOAD_FLAGS ?= -x
 
 all: clean install build
 
@@ -13,8 +14,8 @@ all_crosscompile: clean install build_frontend build_crosscompile
 install:
 	@echo "Installing NPM dependencies..."
 	@npm ci || (echo "Error: Failed to install NPM dependencies." && exit 1)
-	@echo "Installing Go dependencies..."
-	@go mod download || (echo "Error: Failed to install Go dependencies." && exit 1)
+	@echo "Installing Go dependencies (first run can take a while)..."
+	@go mod download $(GO_MOD_DOWNLOAD_FLAGS) || (echo "Error: Failed to install Go dependencies." && exit 1)
 
 build_frontend:
 	@echo "Building frontend assets..."
@@ -65,7 +66,7 @@ check_changes:
 	@git --no-pager diff --exit-code || (echo "There are unstaged changes detected." && exit 1)
 
 go_mod:
-	@go mod download
+	@go mod download $(GO_MOD_DOWNLOAD_FLAGS)
 	@go mod tidy
 
 fmt:
