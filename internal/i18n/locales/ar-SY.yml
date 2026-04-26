@@ -1,5 +1,5 @@
 gist.public: عام
-gist.unlisted: مخبأ
+gist.unlisted: غير مدرج
 gist.private: خاص
 
 gist.header.like: اعجبني
@@ -44,7 +44,7 @@ gist.new.wrap-mode-no: بدون التفاف
 gist.new.wrap-mode-soft: التفاف ناعم
 gist.new.add-file: إضافة ملف
 gist.new.create-public-button: إنشاء مقطع عام
-gist.new.create-unlisted-button: إنشاء مقطع مخبأ
+gist.new.create-unlisted-button: إنشاء مقطع غير مدرج
 gist.new.create-private-button: إنشاء مقطع خاص
 gist.new.preview: معاينة
 gist.new.create-a-new-gist: إنشاء مقطع جديد
@@ -97,7 +97,7 @@ gist.search.help.all: البحث في جميع الحقول
 gist.search.placeholder.title: العنوان
 gist.search.placeholder.visibility: مستوى الظهور
 gist.search.placeholder.public: عام
-gist.search.placeholder.unlisted: مخبأ
+gist.search.placeholder.unlisted: غير مدرج
 gist.search.placeholder.private: خاص
 gist.search.placeholder.language: اللغة
 gist.search.placeholder.all: الكل
